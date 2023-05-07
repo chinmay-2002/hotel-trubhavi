@@ -4,7 +4,7 @@ include('db.php');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>SUNRISE HOTEL</title>
+<title>HOTEL TRUBHAVI</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -38,8 +38,8 @@ include('db.php');
 			</div>
 			<div class="contact-bnr-w3-agile">
 				<ul>
-					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">INFO@SUNRISE.COM</a></li>
-					<li><i class="fa fa-phone" aria-hidden="true"></i>+94 (65)222-44-55</li>	
+					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">INFO@TRUBHAVI.COM</a></li>
+					<li><i class="fa fa-phone" aria-hidden="true"></i>+91 9922175875</li>	
 					<li class="s-bar">
 						<div class="search">
 							<input class="search_box" type="checkbox" id="search_box">
@@ -66,7 +66,7 @@ include('db.php');
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<h1><a class="navbar-brand" href="index.php">SUN <span>RISE</span><p class="logo_w3l_agile_caption">Your Dreamy Resort</p></a></h1>
+					<h1><a class="navbar-brand" href="index.php">HOTEL <span>TRUBHAVI</span><p class="logo_w3l_agile_caption">Your Dreamy Resort</p></a></h1>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
@@ -270,10 +270,10 @@ include('db.php');
 			<div id="horizontalTab">
 					<ul class="resp-tabs-list">
 					<li>
-						<img src="images/teams1.jpg" alt=" " class="img-responsive" />
+						<img src="images/finalChinu.jpg" alt=" " class="img-responsive" />
 					</li>
 					<li>
-						<img src="images/teams2.jpg" alt=" " class="img-responsive" />
+						<img src="images/finaldeep.jpg" alt=" " class="img-responsive" />
 					</li>
 					<li>
 						<img src="images/teams3.jpg" alt=" " class="img-responsive" />
@@ -485,7 +485,7 @@ include('db.php');
 								     </ul>
 							</div>
 							<div class="price-selet">	
-								<h3><span>$</span>320</h3>						
+								<h3><span>&#8377;</span>320</h3>						
 								<a href="admin/reservation.php" >Book Now</a>
 							</div>
 						</div>
@@ -508,7 +508,7 @@ include('db.php');
 								</ul>
 							</div>
 							<div class="price-selet">
-								<h3><span>$</span>220</h3>
+								<h3><span>&#8377;</span>220</h3>
 								<a href="admin/reservation.php" >Book Now</a>
 							</div>
 						</div>
@@ -531,7 +531,7 @@ include('db.php');
 								</ul>
 							</div>
 							<div class="price-selet">
-								<h3><span>$</span>180</h3>
+								<h3><span>&#8377;</span>180</h3>
 								<a href="admin/reservation.php" >Book Now</a>
 							</div>
 						</div>
@@ -554,7 +554,7 @@ include('db.php');
 								</ul>
 							</div>
 							<div class="price-selet">
-								<h3><span>$</span> 150</h3>
+								<h3><span>&#8377;</span> 150</h3>
 								<a href="admin/reservation.php" >Book Now</a>
 							</div>
 						</div>
