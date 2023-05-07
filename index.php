@@ -276,10 +276,10 @@ include('db.php');
 						<img src="images/finaldeep.jpg" alt=" " class="img-responsive" />
 					</li>
 					<li>
-						<img src="images/teams3.jpg" alt=" " class="img-responsive" />
+						<img src="images/finalmadhu.jpg" alt=" " class="img-responsive" />
 					</li>
 					<li>
-						<img src="images/teams4.jpg" alt=" " class="img-responsive" />
+						<img src="images/finalrutu.jpg" alt=" " class="img-responsive" />
 					</li>
 					</ul>
 					<div class="resp-tabs-container">
